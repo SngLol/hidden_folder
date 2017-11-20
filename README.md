@@ -1,3 +1,4 @@
+[Download]
 # Hidden Folder
 Lock a folder behind a password and make it invisible.
 
@@ -11,3 +12,5 @@ This program is nothing but something I made for fun on my school laptop, so use
 
 Feel free to contact me through email if something is wrong or if you've lost your folder.
 You should not expect a quick response as emailing is not something I do on a daily basis.
+
+[Download]: https://github.com/SngLol/hidden_folder/releases
