@@ -11,3 +11,5 @@ This program is nothing but something I made for fun on my school laptop, so use
 
 Feel free to contact me through email if something is wrong or if you've lost your folder.
 You should not expect a quick response as emailing is not something I do on a daily basis.
+
+[Amount of Downloads](https://goo.gl/#analytics/goo.gl/tDh667/all_time)
