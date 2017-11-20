@@ -1,6 +1,4 @@
 # Hidden Folder
-Download
-
 Lock a folder behind a password and make it invisible.
 
 This program "0.bat" will hide a folder originally named "Hide" so it'll become invisible
