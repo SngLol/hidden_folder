@@ -44,4 +44,5 @@ goto end
 md _
 goto End
 :End
+ping localhost -n 2 >nul
 exit
