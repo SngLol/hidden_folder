@@ -1,4 +1,4 @@
-When opening "0.bat" the folder "_" should dissapear.
+When opening "0.bat" the folder "Hide" should dissapear.
 If the folder already is hidden, you will have to type
 in your chosen password for the folder.
 If you havn't chosen a password, default is "1234".
